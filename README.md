@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a research scientist at [Facebook AI](https://ai.facebook.com/). I work on Natural Language Processing and Deep Learning for most of the time. 
+I am a research scientist at [Facebook AI](https://ai.facebook.com/). I work on Natural Language Processing. 
 
 ![xwhan's github stats](https://github-readme-stats.vercel.app/api?username=xwhan&show_icons=true&theme=dracula)
 
